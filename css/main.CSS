@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CCSS Document */
+
+#container
+{
+  width:700px;
+  margin:0 auto;
+}
+
+body{
+  font-family: 'open sans condensed', Helvetica, Arial, sans-serif;
+}
+
+h2{
+  font-weight:300;
+  font-size:34px;
+  color:yellow;
+  letter-spacing:1px;
+  text-align: center;
+}
+p{
+  color:#6b6b69;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight:300;
+}
+
+.dropCap{
+  font-size: 100px;
+  font-weight: 350;
+  line-height: 60px;
+  float:left;
+  margin: 5px 10px 0px 0px;
+}
+
+.floatimg{
+  float:left;
+  margin-right: 20px;
+  padding: 0;
+}
+.floatimgright{
+  float:right;
+  margin-left: 20px;
+  padding: 0;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.hidden{
+  display:none;
+}
+.brewers{
+  text-align: center;
+}
